@@ -58,7 +58,7 @@ public class Kirja {
 		kirja = hakemisto.get("Ylpeys ja ennakkoluulo");
 		System.out.println(kirja);
 		
-		Kirjasto kirjasto = new Kirjasto();
+		/*Kirjasto kirjasto = new Kirjasto();
 		kirjasto.lisaaKirja(jarkiJaTunteet);
 		kirjasto.lisaaKirja(ylpeysJaEnnakkoluulo);
 
@@ -69,7 +69,7 @@ public class Kirja {
 		System.out.println();
 
 		System.out.println(kirjasto.haeKirja("JÄRKI"));
-		//System.out.println(kirjasto.haeKirjaNimenOsalla("JÄRKI"));
+		//System.out.println(kirjasto.haeKirjaNimenOsalla("JÄRKI"));*/
 		
 	}
 
